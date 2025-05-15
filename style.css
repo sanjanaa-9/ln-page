@@ -11,12 +11,12 @@ html,body{
 #main{
     height: 100%;
     width: 100%;
-    /* background-color: black; */
+    
 }
 #nav{
     height: 50px;
     width: 100%;
-    /* background-color: #fff; */
+   
     display: flex;
 
      
@@ -30,12 +30,12 @@ html,body{
 }
 .nav-l a{
     text-decoration: none;
-    /* color: black; */
+    
     font-size: 14px;
     font-weight: 100;
 }
 .nav-l button{
-    /* background-color: #fff; */
+  
     border: none;
     color: black;
     font-size: 14px;
